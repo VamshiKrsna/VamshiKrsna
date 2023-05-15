@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Vamshi Krishna
-#### ML Enthusiast
+#### I am an AIML, Data Science Enthusiast
 
 <!--
 **VamshiKrsna/VamshiKrsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
