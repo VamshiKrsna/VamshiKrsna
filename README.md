@@ -6,8 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vamshi-krishna-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamshi-krishna-s/" height="30" width="40" /></a>
+  <br>
 <a href="https://www.hackerrank.com/vamshikrishnash1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vamshikrishnash1/" height="30" width="40" /></a>
+  <br>
 <a href="https://www.leetcode.com/vamzkrsna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamzkrsna/" height="30" width="40" /></a>
+  <br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
