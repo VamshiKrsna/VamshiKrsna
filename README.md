@@ -2,6 +2,6 @@
 <h3 align="center">An aspiring Machine Learning Engineer.</h3>
 
 - 🌱 I’m currently learning **MLOps**, **Deep Learning**, **NLP,LLMs**
-
+- I'm Currently building **Stockr**
 
 
